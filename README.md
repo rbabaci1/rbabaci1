@@ -1,5 +1,3 @@
 ### Hi there 👋
 
-Hi there! I’m Rabah.
-
-Welcome to my tiny corner of GitHub! I am a Full-Stack Web Developer with a particular interest in Front-End Development. 
+I am a Full Stack JavaScript developer with industry experience building websites and web applications. I have experience working with React, Redux, Node JS, SQL Databases, and Git/GitHub. Take a look at my work or get in touch! www.rabahbabaci.com
