@@ -9,7 +9,6 @@ Full Stack Developer
 * 🌍  I'm based in San Francisco
 * 🖥️  See my portfolio at [Rabahbabaci.dev](http://rabahbabaci.dev)
 * ✉️  You can contact me at [4rabah@gmail.com](mailto:4rabah@gmail.com)
-* 🚀  I'm currently working on [Smoove](http://smoove.homes)
 * 🧠  I'm learning Nest.js
 * 🤝  I'm open to collaborating on challenging and interesting projects!
 * ⚡  Outside of coding, I enjoy playing soccer, cooking, traveling, photography, and recently, surfing. 🌊⚽🍳🌍📷
