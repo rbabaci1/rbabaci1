@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rabah Babaci
 ====================================================================================================================================
 
-Full Stack Developer
+Full Stack Web Developer
 --------------------
 
 👋 Welcome to my GitHub! 🌟 I'm a Full Stack Web Developer with 2 years of experience, primarily focused on front-end development. My passion lies in crafting seamless user experiences, and I'm constantly eager to learn and adapt as the software world evolves. 📚 Explore my repositories to see my journey of growth and development. Let's connect, collaborate, and keep pushing the boundaries of web development together!
