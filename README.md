@@ -4,7 +4,21 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Web Developer
 --------------------
 
-👋 Welcome to my GitHub! 🌟 I'm a Full Stack Web Developer with 2 years of experience, primarily focused on front-end development. My passion lies in crafting seamless user experiences, and I'm constantly eager to learn and adapt as the software world evolves. 📚 Explore my repositories to see my journey of growth and development. Let's connect, collaborate, and keep pushing the boundaries of web development together!
+👋 Hello LinkedIn Universe! 🌍 I'm Rabah, a dynamic 🚀 Full Stack Developer & innovative 💡 entrepreneur with a knack for crafting elegant 🎨 front-end designs and ensuring smooth user interactions. My journey in technology is a vibrant palette of tools and frameworks:
+
+- Front-end Mastery: React, Redux/Toolkit 🛠️, React-Router 🚦, Next.js ⏩, Tailwind CSS 🎨, SCSS 🔖, Material UI 📐.
+
+- Back-end Expertise: Node.js 🌳, Express.js 🚂, GraphQL 🌐, Serverless Architecture ☁️.
+
+- Database Proficiency: PostgreSQL 💾, MySQL 📊, MongoDB 🍃, Firebase 🔥.
+
+- Innovative Technologies: Progressive Web Apps 📱, Jest 🃏, Mocha ☕, Docker 📦.
+
+- Operational Tools: Stripe 💳, Twilio 📞, Google Cloud Services ☁️.
+
+- Design & UX: Figma 📝, Adobe Photoshop 🖌️, Canva 🎨.
+
+From founding Smoove 🏗️ to driving innovation in tech startups 🌱, I'm all about exploring new horizons 🌍, collaborating 🤝, and pushing the boundaries of web development 🚀. Let's connect and embark on a journey of innovation and growth together! 🌟
 
 * 🌍  I'm based in San Francisco
 * 🖥️  See my portfolio at [Rabahbabaci.dev](http://rabahbabaci.dev)
