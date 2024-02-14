@@ -1,7 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rabah Babaci
 ====================================================================================================================================
 
-👋 Hello LinkedIn Universe! 🌍 A dynamic 🚀 Full Stack Developer & innovative 💡 entrepreneur with a knack for crafting elegant 🎨 front-end designs and ensuring smooth user interactions. My journey in technology is a vibrant palette of tools and frameworks:
+
+👋 Hello GitHub Universe! 🌍 A dynamic 🚀 Full Stack Developer & innovative 💡 entrepreneur with a knack for crafting elegant 🎨 front-end designs and ensuring smooth user interactions. My journey in technology is a vibrant palette of tools and frameworks:
 
 - Front-end Mastery: React, Redux/Toolkit 🛠️, React-Router 🚦, Next.js ⏩, Tailwind CSS 🎨, SCSS 🔖, Material UI 📐.
 
